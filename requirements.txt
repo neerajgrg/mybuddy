@@ -1,0 +1,15 @@
+Flask
+python-dotenv
+cachetools
+
+dataclasses_json
+aiohttp
+tiktoken
+tqdm
+asyncio
+
+
+
+
+## slack bot
+slack_sdk
